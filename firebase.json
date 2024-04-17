@@ -11,7 +11,7 @@
         "source": "/old-path/**",
         "destination": "/index.html",
         "type": 301,
-        "location":"/"
+        "location": "/"
       }
     ]
   },
